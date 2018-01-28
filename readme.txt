@@ -5,3 +5,4 @@ git tracks changs of files.
 creating a new branch is quick.
 Creating a new branch is quick AND simple.
 editing by dev.
+now version is 1.01
